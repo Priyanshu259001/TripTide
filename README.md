@@ -1,9 +1,7 @@
 # TripTide: A Benchmark for Adaptive Travel Planning under Disruptions
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Conference-ACL%202026%20Findings-blue">
-  <img src="https://img.shields.io/badge/Domain-LLM%20Planning-orange">
-  <img src="https://img.shields.io/badge/Task-Disruption--Aware%20Travel%20Planning-green">
+   <img src="TripTide_img.png" width="100%"> <br>
 </p>
 
 ## 📌 Overview
